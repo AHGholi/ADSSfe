@@ -1,0 +1,2 @@
+"# VSproject"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/AHGholi/VSproject.gitgit push -u origin main
+"# VSproject"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/AHGholi/VSproject.gitgit push -u origin main
